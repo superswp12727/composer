@@ -1,0 +1,14 @@
+{
+    "name": "superswp12727/composer",
+    "description": "test",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "bmw",
+            "email": "x@example.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
