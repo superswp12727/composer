@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project name="api" default="build">
+        <modelVersion>4.0.0</modelVersion>
+	<groupId>com.icnws</groupId>
+	<artifactId>icnws-tx</artifactId>
+	<packaging>war</packaging>
+	<version>1.1</version>
+        
         <target name="build" depends="make_runtime,check,tar"/>
         <property name="version-m"  value="1.1" />
         <property name="version"    value="1.1.0" />
