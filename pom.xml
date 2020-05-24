@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project name="composer" default="build"> 
-	<target name="composer" depends="build">
+<project name="composer"> 
+	<target name="composer">
 		<fileset id="composer.tar.gz" dir="/var/jenkins_home/workspace/github-composer">
 		</fileset>
 	</target>
